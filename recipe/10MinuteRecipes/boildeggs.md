@@ -1,4 +1,4 @@
-* bring water to a boil
+* bring water to a boil 10 cals
 * add eggs
 * cover
 * turn off heat
