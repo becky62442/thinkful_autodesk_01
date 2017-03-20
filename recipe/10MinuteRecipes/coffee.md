@@ -1,3 +1,5 @@
-* grind beans 2 cals
-* run through a coffee maker
-* drink
+2 cals
+* grind beans 20 beans
+* run through a coffee maker 1 coffee maker
+* drink 1 cup
+
