@@ -1,3 +1,3 @@
-*grind beans
-*run through a coffee maker
-*drink
+* grind beans
+* run through a coffee maker
+* drink
