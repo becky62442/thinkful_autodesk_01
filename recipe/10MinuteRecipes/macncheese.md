@@ -1,4 +1,4 @@
-| yummy cheese |
-| noodles |
-| butter |
-| milk |
+* yummy cheese 
+* noodles 
+* butter 
+* milk 
